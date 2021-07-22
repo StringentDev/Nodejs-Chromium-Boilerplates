@@ -1,4 +1,8 @@
 
+[![Repl Talk Badge](https://replit-badge.vercel.app/api?id=143075&theme=dark&featuredOn=Posted%20On&replTalk=replit.com&type=.svg)](https://replit.com/talk/templates/Developing-for-electron-neutrino-and-nwjs-on-replit/143075)
+
+
+
 This is a tutorial on using cross-platform UI frameworks in Nodejs. The goal of this is to allow developers to use these frameworks to improve their apps.
 
 ------------------
@@ -52,5 +56,3 @@ Hope this helps you develop your own unique applications that can be used offlin
 2871 bytes        430 words         53 lines    
 2065 Characters   49 Paragraphs
 ```
-
-[![Repl Talk Badge](https://replit-badge.vercel.app/api?id=143075&theme=dark&featuredOn=Posted%20On&replTalk=replit.com&type=.svg)](https://replit.com/talk/templates/Developing-for-electron-neutrino-and-nwjs-on-replit/143075)
